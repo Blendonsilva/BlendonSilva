@@ -1,7 +1,5 @@
 ### Ola sou Blendon silva 👋
 
-- 🔭 Atualmente desempregado (Em buca do Primeiro emprego na Area de TI)
-- 🌱 Estudando Analise e desenvolvimento de sistemas
 - 📫 Contate-me no Email : blendonsilva219@gmail.com
 
  <div>
@@ -25,7 +23,13 @@
   <a href = "mailto:contato@blendonsilva219.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/blendon-fantoni-4ab5931a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Blendonsilva/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
+  ##
+ 
+<div> 
+ 
+![Snake animation](https://github.com/Blendonsilva/Blendonsilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
